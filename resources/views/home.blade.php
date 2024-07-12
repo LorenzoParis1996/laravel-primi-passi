@@ -9,8 +9,5 @@
     <h1>
         Hello Laravel, nice to meet you!
     </h1>
-    <p>
-        <a href="about.blade.php">About</a>
-    </p>
 </body>
 </html>
